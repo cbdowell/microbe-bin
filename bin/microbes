@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+console.log('microbes: loading...')
+
+import { join } from 'path'
+
+
+require('..')

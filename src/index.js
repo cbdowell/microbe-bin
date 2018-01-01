@@ -1,1 +1,3 @@
 // TODO: implement...
+
+console.log('microbes: bin(): called...')
